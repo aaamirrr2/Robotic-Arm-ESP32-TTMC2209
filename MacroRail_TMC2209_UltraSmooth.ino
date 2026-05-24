@@ -68,8 +68,8 @@ struct MotionCmd {
 #include <stdlib.h>
 
 // ====================== WIFI ======================
-const char* WIFI_SSID     = "Zora";
-const char* WIFI_PASSWORD = "Ighgi6078";
+const char* WIFI_SSID     = "YOUR_WIFI_NAME";
+const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";
 const char* HOSTNAME      = "esp32";
 
 // ====================== MECHANICS ======================
